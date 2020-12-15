@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "Cirlipa";
-    src: url("../woff/hmakranten_liparxe.woff"); format('woff');
-}
-
-.lineparine {
-    font-family: "Cirlipa"; font-size:300%;
-}

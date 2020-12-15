@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "hmakranten liparxe";
+    src: url("../woff/hmakranten_liparxe.woff"); format('woff');
+}
+
+body {
+    font-family: 'Source Sans Pro', -apple-system, 'BlinkMacSystemFont', Calibri, "Helvetica Neue", Helvetica, Arial, Verdana, Roboto, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", sans-serif;
+}
+
+.lineparine {
+    font-family: "hmakranten liparxe";
+}
+
+.big-lineparine {
+    font-family: "hmakranten liparxe";
+    font-size: xx-large;
+}
+
+.large {
+    font-size: x-large;
+}
