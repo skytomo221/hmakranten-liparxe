@@ -31,3 +31,13 @@ hmakranten liparxeは、はてなブログでリパライン語を書くとき�
 このフォントはSource Sans Proを改変したものなので、
 SIL OPEN FONT LICENSE Version 1.1に従います。
 詳しくは[LICENSE](./LICENSE.md)を参照してください。
+
+## 更新
+
+### Vesion 0.0
+
+- リパーシェの実装
+
+### Version 0.1
+
+- 数字の実装
